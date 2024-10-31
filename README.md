@@ -50,6 +50,10 @@ main(): Unit {
 }
 ```
 
+## 更新日志
+
+[CHANGELOG](CHANGELOG.md)
+
 ## 开源协议
 
 本项目基于 [MulanPSL2](LICENSE) , 请自由享受和参与开源

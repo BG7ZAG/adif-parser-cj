@@ -42,7 +42,6 @@ public class Formatter {
     private func formatTags(header: HashMap<String, String>): String {
         var buffer: String = "";
         for ((key, value) in header) {
-            let arr = Array<UInt8>()
 
             let width =  value.size;
             buffer += "<${key}:${width}>${value}\n"
